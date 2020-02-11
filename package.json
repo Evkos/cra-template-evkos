@@ -6,7 +6,7 @@
     "create-react-app",
     "template"
   ],
-  "description": "This is custom template for Create React App.",
+  "description": "Create-react-app template for redux with react router and react thunk",
   "main": "template.json",
   "repository": {
     "type": "git",

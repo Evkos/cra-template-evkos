@@ -1,1 +1,1 @@
-This is custom CRA template
+Create-react-app template for redux with react router and react thunk
